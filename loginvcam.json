@@ -1,0 +1,64 @@
+{
+  "dialog_enable": true,
+  "online_enable": true,
+
+  "ui_config": {
+    "title": "Premium Access",
+    "descriptions": [
+      "Welcome to Premium Mod.",
+      "Enter your password to activate.",
+      "Ensure your device is registered.",
+      "Powered by PaidModLK."
+    ],
+    "buttons": {
+      "login": "Activate",
+      "contact_support": "Contact Admin",
+      "copy_id": "Copy Device ID"
+    }
+  },
+
+  "admin_contacts": {
+    "telegram": "https://t.me/PaidModLK",
+    "whatsapp": "https://wa.me/94770000000",
+    "facebook": "https://m.me/PaidModLK"
+  },
+
+  "device_licenses": [
+    {
+      "device_id": "23d92dcdda6e9c6b",
+      "device_model": "Samsung Galaxy S23 Ultra",
+      "user_name": "User_A",
+      "password": "1122",
+      "status": "active",
+      "issue_date": "2024-01-01",
+      "expire_date": "2028-12-31"
+    },
+    {
+      "device_id": "a0dc45c05e941cb7",
+      "device_model": "OnePlus 11",
+      "user_name": "User_B",
+      "password": "3344",
+      "status": "active",
+      "issue_date": "2024-01-15",
+      "expire_date": "2026-01-15"
+    },
+    {
+      "device_id": "a3eac6783fb0e3cb",
+      "device_model": "Google Pixel 8 Pro",
+      "user_name": "User_C",
+      "password": "3345",
+      "status": "suspended",
+      "issue_date": "2023-12-01",
+      "expire_date": "2026-01-15"
+    },
+    {
+      "device_id": "offline-mode",
+      "device_model": "Offline Activation",
+      "user_name": "Offline_User",
+      "password": "1234",
+      "status": "offline",
+      "issue_date": "2025-01-01",
+      "expire_date": "2026-01-01"
+    }
+  ]
+}
