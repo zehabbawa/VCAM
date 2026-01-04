@@ -25,7 +25,7 @@
 
   "device_licenses": [
     {
-      "device_id": "23d92dcdda6e9c6b",
+      "device_id": "45d89622eb246c91",
       "device_model": "Samsung Galaxy S23 Ultra",
       "user_name": "User_A",
       "password": "1122",
@@ -43,7 +43,7 @@
       "expire_date": "2026-01-15"
     },
     {
-      "device_id": "a3eac6783fb0e3cb",
+      "device_id": "45d89622eb26c91",
       "device_model": "Google Pixel 8 Pro",
       "user_name": "User_C",
       "password": "3345",
